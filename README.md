@@ -1,9 +1,7 @@
 The table below provides links to brief lecture summaries and/or slides.
 You are required to attend the lectures and take your own notes, but it
 is hoped that the information available from these links will form a
-helpful supplement. If you are interested in a rough idea of what\'s
-coming, there are links to 2012 and 2011 lecture summaries at the bottom
-of this page.
+helpful supplement.
 
 # 2013 Lectures
 
@@ -17,7 +15,7 @@ of this page.
 +==========+=======+==========+==========+==========+==========+
 | `<fon    | 01    | F        | 6 Sep    | [Course  | [        |
 | t color= |       |          | 2013     | inf      | slides]( |
-| "cyan">` |       |          |          | ormation | Media:3f |
+| "cyan">` |       |          |          | ormation | 3f |
 | {=html}1 |       |          |          | ](Course | l01_2013 |
 | `</font> |       |          |          | _informa | .pdf "wi |
 | `{=html} |       |          |          | tion "wi | kilink") |
@@ -25,7 +23,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 02    | `<fon    | 9 Sep    | Intr     | [        |
 | t color= |       | t color= | 2013     | oduction | slides]( |
-| "cyan">` |       | "cyan">` |          | to\      | Media:3f |
+| "cyan">` |       | "cyan">` |          | to\      | 3f |
 | {=html}2 |       | {=html}M |          | E        | l02_2013 |
 | `</font> |       | `</font> |          | xistence | .pdf "wi |
 | `{=html} |       | `{=html} |          | and      | kilink") |
@@ -42,7 +40,7 @@ of this page.
 |          |       |          |          |          | [slides  |
 |          |       |          |          |          | part     |
 |          |       |          |          |          | 2](      |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l04_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -58,7 +56,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 05    | `<fon    | 16 Sep   | More on\ | [        |
 | t color= |       | t color= | 2013     | Ha       | slides]( |
-| "cyan">` |       | "cyan">` |          | rvesting | Media:3f |
+| "cyan">` |       | "cyan">` |          | rvesting | 3f |
 | {=html}3 |       | {=html}M |          | Models   | l05_2013 |
 | `</font> |       | `</font> |          |          | .pdf "wi |
 | `{=html} |       | `{=html} |          |          | kilink") |
@@ -71,7 +69,7 @@ of this page.
 |          |       |          |          | Review   | ilink")\ |
 |          |       |          |          | of 2D    | [        |
 |          |       |          |          | linear   | slides]( |
-|          |       |          |          | algebra  | Media:3f |
+|          |       |          |          | algebra  | 3f |
 |          |       |          |          |          | l07_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -87,14 +85,14 @@ of this page.
 |          |       |          |          |          | {=html}\ |
 |          |       |          |          |          | [        |
 |          |       |          |          |          | slides]( |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l08_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 09    | `<fon    | 23 Sep   | Solution | [        |
 | t color= |       | t color= | 2013     | of       | slides]( |
-| "cyan">` |       | "cyan">` |          | \$\$X\   | Media:3f |
+| "cyan">` |       | "cyan">` |          | \$\$X\   | 3f |
 | {=html}4 |       | {=html}M |          | '=AX\$\$ | l09_2013 |
 | `</font> |       | `</font> |          | with\    | .pdf "wi |
 | `{=html} |       | `{=html} |          | distinct | kilink") |
@@ -103,7 +101,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 |          | 10    | W        | 25 Sep   | Sy       | [        |
 |          |       |          | 2013     | stematic | slides]( |
-|          |       |          |          | Qua      | Media:3f |
+|          |       |          |          | Qua      | 3f |
 |          |       |          |          | litative | l10_2013 |
 |          |       |          |          | A        | .pdf "wi |
 |          |       |          |          | nalysis\ | kilink") |
@@ -122,7 +120,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 11    | `<fon    | 30 Sep   | Solution | [        |
 | t color= |       | t color= | 2013     | of       | slides]( |
-| "cyan">` |       | "cyan">` |          | \$\$X\   | Media:3f |
+| "cyan">` |       | "cyan">` |          | \$\$X\   | 3f |
 | {=html}5 |       | {=html}M |          | '=AX\$\$ | l11_2013 |
 | `</font> |       | `</font> |          | with\    | .pdf "wi |
 | `{=html} |       | `{=html} |          | complex  | kilink") |
@@ -133,7 +131,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 |          | 12    | W        | 2 Oct    | Classi   | [        |
 |          |       |          | 2013     | fication | slides]( |
-|          |       |          |          | of\      | Media:3f |
+|          |       |          |          | of\      | 3f |
 |          |       |          |          | Planar   | l12_2013 |
 |          |       |          |          | Linear   | .pdf "wi |
 |          |       |          |          | Systems  | kilink") |
@@ -149,21 +147,21 @@ of this page.
 |          |       |          |          |          | {=html}\ |
 |          |       |          |          |          | [        |
 |          |       |          |          |          | slides]( |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l13_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 14    | `<fon    | 7 Oct    | Precise  | [        |
 | t color= |       | t color= | 2013     | def      | slides]( |
-| "cyan">` |       | "cyan">` |          | inition\ | Media:3f |
+| "cyan">` |       | "cyan">` |          | inition\ | 3f |
 | {=html}6 |       | {=html}M |          | of       | l14_2013 |
 | `</font> |       | `</font> |          | c        | .pdf "wi |
 | `{=html} |       | `{=html} |          | onjugacy | kilink") |
 +----------+-------+----------+----------+----------+----------+
 |          | 15\   | W        | 9 Oct    | Multidim | [        |
 |          | 2 hrs |          | 2013     | ensional | slides]( |
-|          |       |          |          | Linear\  | Media:3f |
+|          |       |          |          | Linear\  | 3f |
 |          |       |          |          | Algebra: | l15_2013 |
 |          |       |          |          | Review   | .pdf "wi |
 |          |       |          |          | and JCF  | kilink") |
@@ -196,7 +194,7 @@ of this page.
 |          |       |          |          | Matrix   | ilink")\ |
 |          |       |          |          | Expo     | [slides  |
 |          |       |          |          | nentials | 18](     |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l18_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -211,7 +209,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 19    | `<fon    | 21 Oct   | More on  | [        |
 | t color= |       | t color= | 2013     | Matrix   | slides]( |
-| "cyan">` |       | "cyan">` |          | Expo     | Media:3f |
+| "cyan">` |       | "cyan">` |          | Expo     | 3f |
 | {=html}8 |       | {=html}M |          | nentials | l19_2013 |
 | `</font> |       | `</font> |          |          | .pdf "wi |
 | `{=html} |       | `{=html} |          |          | kilink") |
@@ -224,7 +222,7 @@ of this page.
 |          |       |          |          | Fou      | ilink")\ |
 |          |       |          |          | ndations | [slides  |
 |          |       |          |          | of       | 21](     |
-|          |       |          |          | N        | Media:3f |
+|          |       |          |          | N        | 3f |
 |          |       |          |          | onlinear | l21_2013 |
 |          |       |          |          | Systems  | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -246,7 +244,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<fon    | 22    | `<fon    | 28 Oct   | More     | [        |
 | t color= |       | t color= | 2013     | Found    | slides]( |
-| "cyan">` |       | "cyan">` |          | ations,\ | Media:3f |
+| "cyan">` |       | "cyan">` |          | ations,\ | 3f |
 | {=html}9 |       | {=html}M |          | Info     | l22_2013 |
 | `</font> |       | `</font> |          | about    | .pdf "wi |
 | `{=html} |       | `{=html} |          | Test #1  | kilink") |
@@ -273,7 +271,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<font   | 23    | `<fon    | 4 Nov    | Yet More | [        |
 |  color=" |       | t color= | 2013     | Foun     | slides]( |
-| cyan">`{ |       | "cyan">` |          | dations\ | Media:3f |
+| cyan">`{ |       | "cyan">` |          | dations\ | 3f |
 | =html}10 |       | {=html}M |          | of       | l23_2013 |
 | `</font> |       | `</font> |          | N        | .pdf "wi |
 | `{=html} |       | `{=html} |          | onlinear | kilink") |
@@ -287,14 +285,14 @@ of this page.
 |          |       |          |          | ODEs;\   | ilink")\ |
 |          |       |          |          | Nu       | [slides  |
 |          |       |          |          | llclines | 25](     |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l25_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
 +----------+-------+----------+----------+----------+----------+
 |          | 26    | F        | 8 Nov    | Equ      | [        |
 |          |       |          | 2013     | ilibria, | slides]( |
-|          |       |          |          | Nu       | Media:3f |
+|          |       |          |          | Nu       | 3f |
 |          |       |          |          | llclines | l26_2013 |
 |          |       |          |          | and\     | .pdf "wi |
 |          |       |          |          | Linea    | kilink") |
@@ -303,7 +301,7 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<font   | 27    | `<fon    | 11 Nov   | Notions  | [        |
 |  color=" |       | t color= | 2013     | of       | slides]( |
-| cyan">`{ |       | "cyan">` |          | S        | Media:3f |
+| cyan">`{ |       | "cyan">` |          | S        | 3f |
 | =html}11 |       | {=html}M |          | tability | l27_2013 |
 | `</font> |       | `</font> |          |          | .pdf "wi |
 | `{=html} |       | `{=html} |          |          | kilink") |
@@ -316,7 +314,7 @@ of this page.
 |          |       |          |          | Sets     | ilink")\ |
 |          |       |          |          |          | [slides  |
 |          |       |          |          |          | 29](     |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l29_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -334,14 +332,14 @@ of this page.
 |          |       |          |          |          | {=html}\ |
 |          |       |          |          |          | [        |
 |          |       |          |          |          | slides]( |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l30_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
 +----------+-------+----------+----------+----------+----------+
 | `<font   | 31    | `<fon    | 18 Nov   | Non-E    | [        |
 |  color=" |       | t color= | 2013     | xistence | slides]( |
-| cyan">`{ |       | "cyan">` |          | of       | Media:3f |
+| cyan">`{ |       | "cyan">` |          | of       | 3f |
 | =html}12 |       | {=html}M |          | Periodic | l31_2013 |
 | `</font> |       | `</font> |          | Orbits   | .pdf "wi |
 | `{=html} |       | `{=html} |          |          | kilink") |
@@ -354,7 +352,7 @@ of this page.
 |          |       |          |          | Theorem  | ilink")\ |
 |          |       |          |          |          | [slides  |
 |          |       |          |          |          | 33](     |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l33_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -382,7 +380,7 @@ of this page.
 | `{=html} |       | `{=html} |          |          | ilink")\ |
 |          |       |          |          |          | [slides  |
 |          |       |          |          |          | 33](     |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l33_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -408,14 +406,14 @@ of this page.
 +----------+-------+----------+----------+----------+----------+
 | `<font   | 34    | `<fon    | 2 Dec    | A taste  | [        |
 |  color=" |       | t color= | 2013     | of       | slides]( |
-| cyan">`{ |       | "cyan">` |          | epidemic | Media:3f |
+| cyan">`{ |       | "cyan">` |          | epidemic | 3f |
 | =html}14 |       | {=html}M |          | m        | l34_2013 |
 | `</font> |       | `</font> |          | odelling | .pdf "wi |
 | `{=html} |       | `{=html} |          |          | kilink") |
 +----------+-------+----------+----------+----------+----------+
 |          | 35    | W        | 4 Dec    | Chaos    | [        |
 |          |       |          | 2013     |          | slides]( |
-|          |       |          |          |          | Media:3f |
+|          |       |          |          |          | 3f |
 |          |       |          |          |          | l35_2013 |
 |          |       |          |          |          | .pdf "wi |
 |          |       |          |          |          | kilink") |
@@ -430,16 +428,3 @@ of this page.
 |          |       |          |          | `{=html} |          |
 +----------+-------+----------+----------+----------+----------+
 
-: **Lecture Schedule**
-
-# 2012 Lectures {#lectures_1}
-
-[Lecture dates 2012](Lecture_dates_2012 "wikilink")
-
-[Lectures 2012](Lectures_2012 "wikilink")
-
-# 2011 Lectures {#lectures_2}
-
-[Lecture dates 2011](Lecture_dates_2011 "wikilink")
-
-[Lectures 2011](Lectures_2011 "wikilink")
