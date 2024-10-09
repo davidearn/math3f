@@ -4,5 +4,7 @@ Differential Equations" in 2013.
 Please let me know if you find any errors.
 
 Best,
+
 David Earn
+
 `earn@math.mcmaster.ca`
